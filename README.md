@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   AHMAD-HAROON · PROFILE README · Matrix Terminal Theme v3.0      -->
 <!--   SETUP:                                                        -->
