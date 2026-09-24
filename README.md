@@ -124,6 +124,7 @@
 | **Data Classification Using AI** | AI-based classification project using the Iris dataset and K-Nearest Neighbors algorithm, including preprocessing and evaluation | Python · Jupyter Notebook · KNN | [GitHub](https://github.com/ahmadharoon101-ai/project-2-data-classification-using-ai) |
 | **Load Balancing using VMs & Auto Scaling** | Cloud infrastructure management platform featuring VM provisioning, load balancing, auto-scaling, resource monitoring, and a centralized dashboard | Cloud Infrastructure | [GitHub](https://github.com/ahmadharoon101-ai/load-balancing-using-vms-and-auto-scaling-in-firebase) |
 | **Rule-Based AI Chatbot** | Python-based rule-based chatbot using dictionary-based intent matching for fast response lookup, with CLI effects and input sanitization | Python · Jupyter Notebook | [GitHub](https://github.com/ahmadharoon101-ai/Rule-Based-AI-Chatbot-Python) |
+| **AI Developer Assistant** | AI-powered developer assistant built with Flutter to support coding, documentation, and AI-assisted development workflows | Dart · Flutter · AI | [GitHub](https://github.com/ahmadharoon101-ai/ai_developer_assistant) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:00ff41,100:0d0208&height=3" width="100%"/>
 
