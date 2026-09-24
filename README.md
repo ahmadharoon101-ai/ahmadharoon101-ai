@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   AHMAD-HAROON · PROFILE README · Matrix Terminal Theme v3.0      -->
 <!--   SETUP:                                                        -->
@@ -228,3 +229,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let's+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing"/>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**ahmadharoon101-ai/ahmadharoon101-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 0463141a08360d03b93e3d296053c5c98c20bde1
