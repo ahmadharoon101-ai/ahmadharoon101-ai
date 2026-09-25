@@ -182,16 +182,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is a load balancer?**
+**What is a reverse proxy?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Distributes traffic across multiple servers. Types: Layer 4 (TCP/UDP) and Layer 7 (HTTP). Improves availability and performance.
+> Server that sits in front of backend servers, forwarding client requests. Benefits: SSL termination, caching, load balancing, security.
 
 </details>
 
-*Question #264 of 60*
+*Question #268 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
