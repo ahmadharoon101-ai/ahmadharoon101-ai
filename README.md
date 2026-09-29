@@ -231,5 +231,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Let's+connect+and+collaborate!;Building+the+future+with+AI+%F0%9F%A4%96" alt="Footer Typing"/>
 </div>
-=======
+
 
