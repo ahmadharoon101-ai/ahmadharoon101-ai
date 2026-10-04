@@ -183,16 +183,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is the difference between authentication and authorization?**
+**What is a zero-day vulnerability?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Authentication: Verifying WHO you are (login). Authorization: Verifying WHAT you can access (permissions). Both are essential.
+> A previously unknown flaw that attackers discover before developers. Called 'zero-day' because developers have had zero days to fix it.
 
 </details>
 
-*Question #276 of 60*
+*Question #277 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
