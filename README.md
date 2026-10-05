@@ -183,16 +183,16 @@
 
 ### 🔒 Today's Question: Cybersecurity
 
-**What is a zero-day vulnerability?**
+**What is the principle of least privilege?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A previously unknown flaw that attackers discover before developers. Called 'zero-day' because developers have had zero days to fix it.
+> Users and systems should only have the minimum permissions needed to do their job. Limits damage from breaches and errors.
 
 </details>
 
-*Question #277 of 60*
+*Question #278 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
