@@ -183,16 +183,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What is a Promise in JavaScript?**
+**What is the difference between null and undefined?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> An object representing eventual completion/failure of async operations. States: pending, fulfilled, rejected. Replaced by async/await now.
+> undefined: Variable declared but not assigned. null: Intentionally set to empty/no value. typeof null === 'object' is a known JS bug.
 
 </details>
 
-*Question #285 of 60*
+*Question #286 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
