@@ -183,16 +183,16 @@
 
 ### 💻 Today's Question: Coding
 
-**What are arrow functions and when to avoid them?**
+**What is memoization?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Concise syntax, lexical 'this' binding. Avoid: Object methods (need 'this'), constructors, when you need 'arguments' object.
+> Caching function results based on inputs. Expensive calculations are computed once, subsequent calls return cached result. Trade-off: memory vs speed.
 
 </details>
 
-*Question #287 of 60*
+*Question #288 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
