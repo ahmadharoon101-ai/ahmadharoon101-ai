@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is the difference between TCP and UDP?**
+**What is the OSI model layers (top to bottom)?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> TCP: Reliable, connection-oriented, ordered delivery, slower. UDP: Fast, connectionless, no guarantee of delivery. Choose based on needs.
+> 7: Application, 6: Presentation, 5: Session, 4: Transport, 3: Network, 2: Data Link, 1: Physical. 'All People Seem To Need Data Processing' 📚
 
 </details>
 
-*Question #290 of 60*
+*Question #291 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
