@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is the OSI model layers (top to bottom)?**
+**What is the difference between a router and a switch?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> 7: Application, 6: Presentation, 5: Session, 4: Transport, 3: Network, 2: Data Link, 1: Physical. 'All People Seem To Need Data Processing' 📚
+> Switch: Operates at Layer 2, connects devices in same network (MAC addresses). Router: Operates at Layer 3, connects different networks (IP addresses).
 
 </details>
 
-*Question #291 of 60*
+*Question #292 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
