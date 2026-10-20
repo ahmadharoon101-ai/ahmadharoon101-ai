@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is the difference between a router and a switch?**
+**What is DNS and how does it work?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Switch: Operates at Layer 2, connects devices in same network (MAC addresses). Router: Operates at Layer 3, connects different networks (IP addresses).
+> Domain Name System translates domains to IPs. Flow: Browser cache → Resolver → Root → TLD → Authoritative nameserver. Uses UDP port 53.
 
 </details>
 
-*Question #292 of 60*
+*Question #293 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
