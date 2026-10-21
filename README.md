@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is DNS and how does it work?**
+**What is the difference between HTTP and HTTPS?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Domain Name System translates domains to IPs. Flow: Browser cache → Resolver → Root → TLD → Authoritative nameserver. Uses UDP port 53.
+> HTTP: Plain text communication. HTTPS: HTTP + TLS encryption. HTTPS uses ports 443, HTTP uses 80. HTTPS also verifies server identity.
 
 </details>
 
-*Question #293 of 60*
+*Question #294 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
