@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is the difference between HTTP and HTTPS?**
+**What is a CIDR block?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> HTTP: Plain text communication. HTTPS: HTTP + TLS encryption. HTTPS uses ports 443, HTTP uses 80. HTTPS also verifies server identity.
+> Classless Inter-Domain Routing. Format: IP/prefix (e.g., 192.168.1.0/24). The number after / shows how many bits for the network portion.
 
 </details>
 
-*Question #294 of 60*
+*Question #295 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
