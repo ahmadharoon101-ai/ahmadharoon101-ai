@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is a CIDR block?**
+**What is the difference between symmetric and asymmetric routing?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Classless Inter-Domain Routing. Format: IP/prefix (e.g., 192.168.1.0/24). The number after / shows how many bits for the network portion.
+> Symmetric: Same path both directions. Asymmetric: Different paths can be taken. Asymmetric routing can cause issues with stateful firewalls.
 
 </details>
 
-*Question #295 of 60*
+*Question #296 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
