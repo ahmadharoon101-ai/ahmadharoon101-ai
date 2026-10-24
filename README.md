@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is the difference between symmetric and asymmetric routing?**
+**What is NAT (Network Address Translation)?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Symmetric: Same path both directions. Asymmetric: Different paths can be taken. Asymmetric routing can cause issues with stateful firewalls.
+> Maps private IPs to public IP(s) for internet access. Types: Static NAT (1:1), Dynamic NAT (many:many pool), PAT (many:1, port-based).
 
 </details>
 
-*Question #296 of 60*
+*Question #297 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
