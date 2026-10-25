@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is NAT (Network Address Translation)?**
+**What is a subnet mask and why is it important?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Maps private IPs to public IP(s) for internet access. Types: Static NAT (1:1), Dynamic NAT (many:many pool), PAT (many:1, port-based).
+> Defines network vs host portion of an IP address. e.g., /24 means first 24 bits are network, last 8 bits are for hosts (254 usable in /24).
 
 </details>
 
-*Question #297 of 60*
+*Question #298 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
