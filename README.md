@@ -183,16 +183,16 @@
 
 ### 🌐 Today's Question: Networking
 
-**What is a subnet mask and why is it important?**
+**What is the difference between load balancer and reverse proxy?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Defines network vs host portion of an IP address. e.g., /24 means first 24 bits are network, last 8 bits are for hosts (254 usable in /24).
+> LB: Distributes traffic across servers, can be hardware/software. Reverse Proxy: Receives requests, forwards to backend, often includes LB.
 
 </details>
 
-*Question #298 of 60*
+*Question #299 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
