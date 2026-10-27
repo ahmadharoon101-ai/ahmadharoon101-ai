@@ -181,18 +181,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### 🌐 Today's Question: Networking
+### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between load balancer and reverse proxy?**
+**What is the difference between a stack and a queue?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> LB: Distributes traffic across servers, can be hardware/software. Reverse Proxy: Receives requests, forwards to backend, often includes LB.
+> Stack: LIFO (Last In First Out) - like a pile of plates. Queue: FIFO (First In First Out) - like a line at a coffee shop.
 
 </details>
 
-*Question #299 of 60*
+*Question #300 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
