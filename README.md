@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between a stack and a queue?**
+**Explain Big O Notation in simple terms**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Stack: LIFO (Last In First Out) - like a pile of plates. Queue: FIFO (First In First Out) - like a line at a coffee shop.
+> Big O describes how an algorithm's performance scales as input size grows. O(1) = instant, O(n) = linear, O(n²) = slow for large data.
 
 </details>
 
-*Question #300 of 60*
+*Question #301 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
