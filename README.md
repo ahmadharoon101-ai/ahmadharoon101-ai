@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**Explain Big O Notation in simple terms**
+**What is the difference between SQL and NoSQL databases?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Big O describes how an algorithm's performance scales as input size grows. O(1) = instant, O(n) = linear, O(n²) = slow for large data.
+> SQL: Structured, tabular data, uses schemas (MySQL, PostgreSQL). NoSQL: Unstructured, flexible schemas, better for scaling (MongoDB, Redis).
 
 </details>
 
-*Question #301 of 60*
+*Question #302 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
