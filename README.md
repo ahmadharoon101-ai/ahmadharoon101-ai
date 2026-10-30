@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between SQL and NoSQL databases?**
+**What are the SOLID principles?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> SQL: Structured, tabular data, uses schemas (MySQL, PostgreSQL). NoSQL: Unstructured, flexible schemas, better for scaling (MongoDB, Redis).
+> S: Single Responsibility, O: Open/Closed, L: Liskov Substitution, I: Interface Segregation, D: Dependency Inversion
 
 </details>
 
-*Question #302 of 60*
+*Question #303 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
