@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What are the SOLID principles?**
+**What is the difference between processes and threads?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> S: Single Responsibility, O: Open/Closed, L: Liskov Substitution, I: Interface Segregation, D: Dependency Inversion
+> Process: Independent program in memory. Thread: Lightweight unit within a process that shares memory with other threads.
 
 </details>
 
-*Question #303 of 60*
+*Question #304 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
