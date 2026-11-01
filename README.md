@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between processes and threads?**
+**What is dependency injection and why use it?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Process: Independent program in memory. Thread: Lightweight unit within a process that shares memory with other threads.
+> A technique where dependencies are passed to a class instead of creating them inside. Makes code more testable and loosely coupled.
 
 </details>
 
-*Question #304 of 60*
+*Question #305 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
