@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is dependency injection and why use it?**
+**What is the CAP theorem?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A technique where dependencies are passed to a class instead of creating them inside. Makes code more testable and loosely coupled.
+> A distributed system can only guarantee 2 of 3: Consistency, Availability, Partition tolerance. You must choose which 2 to prioritize.
 
 </details>
 
-*Question #305 of 60*
+*Question #306 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
