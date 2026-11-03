@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the CAP theorem?**
+**Explain the ACID properties**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> A distributed system can only guarantee 2 of 3: Consistency, Availability, Partition tolerance. You must choose which 2 to prioritize.
+> Atomicity (all or nothing), Consistency (valid state), Isolation (concurrent transactions don't interfere), Durability (persisted data is safe).
 
 </details>
 
-*Question #306 of 60*
+*Question #307 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
