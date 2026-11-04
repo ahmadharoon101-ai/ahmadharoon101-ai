@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**Explain the ACID properties**
+**What is the difference between monolith and microservices?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Atomicity (all or nothing), Consistency (valid state), Isolation (concurrent transactions don't interfere), Durability (persisted data is safe).
+> Monolith: Single codebase, easier to start but harder to scale. Microservices: Multiple small services, more complex but scalable independently.
 
 </details>
 
-*Question #307 of 60*
+*Question #308 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
