@@ -183,16 +183,16 @@
 
 ### ⚙️ Today's Question: Software Engineering
 
-**What is the difference between monolith and microservices?**
+**What is a design pattern? Name common ones.**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Monolith: Single codebase, easier to start but harder to scale. Microservices: Multiple small services, more complex but scalable independently.
+> Reusable solutions to common problems. Examples: Singleton, Factory, Observer, Strategy, Decorator, MVC.
 
 </details>
 
-*Question #308 of 60*
+*Question #309 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
