@@ -181,18 +181,18 @@
 <!-- START_DAILY_QA -->
 <div align="center">
 
-### ⚙️ Today's Question: Software Engineering
+### 🤖 Today's Question: Ai Ml
 
-**What is a design pattern? Name common ones.**
+**What is the difference between AI, ML, and Deep Learning?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Reusable solutions to common problems. Examples: Singleton, Factory, Observer, Strategy, Decorator, MVC.
+> AI: Broad concept of machines acting intelligently. ML: Subset where computers learn from data. DL: Subset using neural networks with many layers.
 
 </details>
 
-*Question #309 of 60*
+*Question #310 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
