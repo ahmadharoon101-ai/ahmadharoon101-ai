@@ -183,16 +183,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is the difference between AI, ML, and Deep Learning?**
+**What is the difference between supervised and unsupervised learning?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> AI: Broad concept of machines acting intelligently. ML: Subset where computers learn from data. DL: Subset using neural networks with many layers.
+> Supervised: Uses labeled data (know the answers). Unsupervised: Finds patterns in unlabeled data (clustering, dimensionality reduction).
 
 </details>
 
-*Question #310 of 60*
+*Question #311 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
