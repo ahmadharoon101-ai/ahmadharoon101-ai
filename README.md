@@ -183,16 +183,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is gradient descent?**
+**What is transfer learning?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> An optimization algorithm that iteratively adjusts parameters to minimize the loss function by moving in the direction of steepest descent.
+> Using a pre-trained model on a similar problem as a starting point. Saves time and data. Common in computer vision and NLP.
 
 </details>
 
-*Question #315 of 60*
+*Question #316 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
