@@ -183,16 +183,16 @@
 
 ### 🤖 Today's Question: Ai Ml
 
-**What is the difference between CNN and RNN?**
+**What are transformers and why are they important?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> CNN: Great for images/spatial data, uses filters. RNN: Great for sequences/time series, has memory of previous inputs.
+> Architecture using self-attention mechanism. Powers GPT, BERT, etc. Can process sequences in parallel and handle long-range dependencies.
 
 </details>
 
-*Question #317 of 60*
+*Question #318 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
