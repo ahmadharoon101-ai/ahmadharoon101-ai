@@ -183,16 +183,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is Infrastructure as Code?**
+**What is the difference between horizontal and vertical scaling?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Managing infrastructure through code/files instead of manual processes. Tools: Terraform, Ansible, CloudFormation. Version control + reproducibility.
+> Vertical: Add more power to existing machine (CPU, RAM). Horizontal: Add more machines to the pool. Horizontal is usually more resilient.
 
 </details>
 
-*Question #322 of 60*
+*Question #323 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
