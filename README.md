@@ -183,16 +183,16 @@
 
 ### 🚀 Today's Question: Devops
 
-**What is the difference between horizontal and vertical scaling?**
+**What is a load balancer?**
 
 <details>
 <summary>💡 Click to reveal answer</summary>
 
-> Vertical: Add more power to existing machine (CPU, RAM). Horizontal: Add more machines to the pool. Horizontal is usually more resilient.
+> Distributes traffic across multiple servers. Types: Layer 4 (TCP/UDP) and Layer 7 (HTTP). Improves availability and performance.
 
 </details>
 
-*Question #323 of 60*
+*Question #324 of 60*
 </div>
 <!-- END_DAILY_QA -->
 
